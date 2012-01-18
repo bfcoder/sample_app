@@ -1,3 +1,4 @@
+.DS_Store
 .redcar/
 .bundle
 db/*.sqlite3
